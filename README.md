@@ -1,1 +1,1 @@
-# nycu_python_worjshop
+# nycu_python_workshop
